@@ -1,0 +1,13 @@
+C:\Users\Marcelo\source\repos\Desafio Warren 2\Desafio Warren 2\bin\Debug\netcoreapp3.1\Desafio Warren 2.exe
+C:\Users\Marcelo\source\repos\Desafio Warren 2\Desafio Warren 2\bin\Debug\netcoreapp3.1\Desafio Warren 2.deps.json
+C:\Users\Marcelo\source\repos\Desafio Warren 2\Desafio Warren 2\bin\Debug\netcoreapp3.1\Desafio Warren 2.runtimeconfig.json
+C:\Users\Marcelo\source\repos\Desafio Warren 2\Desafio Warren 2\bin\Debug\netcoreapp3.1\Desafio Warren 2.runtimeconfig.dev.json
+C:\Users\Marcelo\source\repos\Desafio Warren 2\Desafio Warren 2\bin\Debug\netcoreapp3.1\Desafio Warren 2.dll
+C:\Users\Marcelo\source\repos\Desafio Warren 2\Desafio Warren 2\bin\Debug\netcoreapp3.1\Desafio Warren 2.pdb
+C:\Users\Marcelo\source\repos\Desafio Warren 2\Desafio Warren 2\obj\Debug\netcoreapp3.1\Desafio Warren 2.csproj.AssemblyReference.cache
+C:\Users\Marcelo\source\repos\Desafio Warren 2\Desafio Warren 2\obj\Debug\netcoreapp3.1\Desafio Warren 2.AssemblyInfoInputs.cache
+C:\Users\Marcelo\source\repos\Desafio Warren 2\Desafio Warren 2\obj\Debug\netcoreapp3.1\Desafio Warren 2.AssemblyInfo.cs
+C:\Users\Marcelo\source\repos\Desafio Warren 2\Desafio Warren 2\obj\Debug\netcoreapp3.1\Desafio Warren 2.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\source\repos\Desafio Warren 2\Desafio Warren 2\obj\Debug\netcoreapp3.1\Desafio Warren 2.dll
+C:\Users\Marcelo\source\repos\Desafio Warren 2\Desafio Warren 2\obj\Debug\netcoreapp3.1\Desafio Warren 2.pdb
+C:\Users\Marcelo\source\repos\Desafio Warren 2\Desafio Warren 2\obj\Debug\netcoreapp3.1\Desafio Warren 2.genruntimeconfig.cache
